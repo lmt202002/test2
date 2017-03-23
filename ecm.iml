@@ -70,5 +70,8 @@
     <orderEntry type="library" name="Maven: io.netty:netty:3.5.7.Final" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:2.53.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.webdriver:webdriver-selenium:0.9.7089" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.webdriver:webdriver-common:0.9.7089" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium.client-drivers:selenium-java-client-driver:1.0.1" level="project" />
   </component>
 </module>
