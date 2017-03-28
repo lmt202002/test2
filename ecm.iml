@@ -17,7 +17,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -73,5 +73,11 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.webdriver:webdriver-selenium:0.9.7089" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.webdriver:webdriver-common:0.9.7089" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium.client-drivers:selenium-java-client-driver:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:testng:6.9.9" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant-launcher:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
   </component>
 </module>
